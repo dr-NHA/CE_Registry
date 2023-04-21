@@ -11,12 +11,6 @@ Limitations
 Because it uses the OS commands it requires double escape sequences, these are not integrated. So you need to manually escape your data.
 
 
-Documentation
-=============
-
-The documentation is available [online at GitHub](http://tieske.github.com/registry/)
-
-
 Tests
 =====
 
@@ -26,7 +20,7 @@ Tests are located in the `./spec` folder and can be run using [busted](http://ol
 Changes
 =======
 
-- 0.1, 6-jun-2013, initial release
+- 0.1, 22-april-2023, Modified For Cheat Engine By dr NHA
 
 
 License
